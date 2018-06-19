@@ -1,6 +1,6 @@
 ## bblambda
 
-An example implementation of a Cisco Spark bot in AWS Lambda using APIGateway on the front end, and DynamoDB on the back...
+An example implementation of a Webex Teams bot in AWS Lambda using APIGateway on the front end, and DynamoDB on the back...
 
 ### Installation
 
